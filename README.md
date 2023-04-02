@@ -37,11 +37,13 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maszz&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Maszz&show_icons=true&theme=dark)](https://github.com/Maszz/github-readme-stats)
+![full-year](/fullyear-calendar.svg)
 
 ## 🎨 Projects Showcase and past work
    - [Kar-nda](https://github.com/Maszz/Kar-nda) - This project is a planner and calendar application developed as a part of the Software Process course. 
    - [Fortal](https://github.com/Maszz/sf341MobileApp) - Fortal is a Social media platform focus on find friend to do activities and hobbies Build with React Native and Nest.js as backend
    - [Chess Pygame](https://github.com/Maszz/ChessGame_Pygame) - Chess clone was developed using Pygame as a means to study game development and gain hands-on experience in game development
    - [SD WebUi Connect Extension](https://github.com/Maszz/sd-web-ui-connect-extention) - This project is an extension for the [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). It serves as a connector for saving images to various remote repositories. The aim is to enhance the functionality of the existing web interface by enabling seamless integration with multiple storage services.
+
 
   
