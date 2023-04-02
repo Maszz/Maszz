@@ -13,11 +13,12 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 ![Prisma](https://img.shields.io/badge/-Prisma-232F3E?style=flat-square&logo=prisma)
 ![React](https://img.shields.io/badge/-React-232F3E?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/NextJs-232F3E?style=flat-square&logo=nextjs)
+![Nestjs](https://img.shields.io/badge/-Nestjs-181717?style=flat-square&logo=nestjs)
 ![Go](https://img.shields.io/badge/-Go-181717?style=flat-square&logo=go)
 ![Fiber](https://img.shields.io/badge/-Fiber-181717?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
 ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat-square&logo=fastapi)
-![Nestjs](https://img.shields.io/badge/-Nestjs-181717?style=flat-square&logo=nestjs)
+![PyTorch](https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch)
 ![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -31,7 +32,8 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-181717?style=flat-square&logo=microsoft-azure)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-181717?style=flat-square&logo=amazon-aws)
-![PyTorch](https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch)
+![Vmware](https://img.shields.io/badge/Vmware-181717?style=flat-square&logo=vmware)
+![VSphere](https://img.shields.io/badge/VSphere-181717?style=flat-square&logo=vmware)
 
 ## 📈 GitHub Stats
 
