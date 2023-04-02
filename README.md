@@ -20,6 +20,7 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat-square&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch)
 ![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C%23-181717?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-181717?style=flat-square&logo=chakraui)
