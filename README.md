@@ -1,6 +1,6 @@
 ### Hi there, I'm Mawin Sukmomgkol! 👋
 
-I am a Software Engineering student at Thammasat School of Engineering, Thammasat University. I am deeply passionate about and intrigued by distributed systems, DevOps, and MLOps. I am always eager to take on new challenges and broaden my knowledge in these areas.
+I am a Software Engineering student at Thammasat School of Engineering, Thammasat University. I am deeply passionate about and intrigued by distributed systems, DevOps, cloud computing and MLOps. I am always eager to take on new challenges and broaden my knowledge in these areas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mawin_Sukmongkol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawin-sukmongkol-91424a265/)](https://www.linkedin.com/in/mawin-sukmongkol-91424a265/)
 [![Gmail Badge](https://img.shields.io/badge/-mawin38408@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mawin38408@gmail.com)](mailto:mawin38408@gmail.com)
