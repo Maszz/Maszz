@@ -38,8 +38,8 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maszz&layout=compact&theme=dark)](https://github.com/Maszz/github-readme-stats)
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Maszz&show_icons=true&theme=dark)](https://github.com/Maszz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maszz&layout=compact&theme=dark)](https://github.com/Maszz/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Maszz&show_icons=true&theme=dark)](https://github.com/Maszz/github-readme-stats)
 ![full-year](/fullyear-calendar.svg)
 
 ## 🎨 Projects Showcase and past work
