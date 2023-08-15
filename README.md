@@ -4,6 +4,7 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mawin_Sukmongkol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawin-sukmongkol-91424a265/)](https://www.linkedin.com/in/mawin-sukmongkol-91424a265/)
 [![Gmail Badge](https://img.shields.io/badge/-mawin38408@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mawin38408@gmail.com)](mailto:mawin38408@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mawin.sukm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mawin.sukm@gmail.com)](mailto:mawin.sukm@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
